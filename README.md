@@ -1,9 +1,11 @@
 # 🔴 Live AI Assistant
 
-**An AI assistant that actually knows what happened five minutes ago.**
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Your+Intelligent+AI+Desktop+Assistant;Powered+by+Claude+API;Chat+%7C+Vision+%7C+Productivity;Fast%2C+Smart+and+Always+Ready;Built+with+Python+%26+CustomTkinter" />
 
+<div align = "center">An AI assistant that actually knows what happened five minutes ago.</div>
+<br>
 Live AI Assistant is a lightweight agent built on Claude that can search the web in real time, cite its sources, double-check its own answers against fresh data, and remember facts about you across sessions. No vector database, no heavyweight framework — just the Anthropic API, a tool-calling loop, and a simple JSON memory store.
-
+</br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white" alt="Python 3.9+">
   <img src="https://img.shields.io/badge/Claude-Sonnet%205-b083f0?logo=anthropic&logoColor=white" alt="Claude Sonnet 5">
@@ -211,5 +213,10 @@ Contributions and forks welcome — open an issue or PR if you build on this.
 MIT — do whatever you want with it, just don't hold me liable if Claude searches something weird.
 
 ---
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,100:6A5ACD"/>
+
+</p>
 
 <p align="center"><i>Built as a portfolio project to explore what "live" actually means for an AI assistant.</i></p>
